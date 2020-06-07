@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cjdalan.github.io
+Token: 15f32f5b9378b044ae8793e893be9c15e4f228fee16a44ba206eb03117854055
